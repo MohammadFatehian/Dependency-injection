@@ -1,0 +1,74 @@
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.exe
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.deps.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.runtimeconfig.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.runtimeconfig.dev.json
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.dll
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.pdb
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.Views.dll
+C:\Users\Persia\Desktop\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.Views.pdb
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csprojAssemblyReference.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.AssemblyInfoInputs.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.AssemblyInfo.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csproj.CoreCompileInputs.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorAssemblyInfo.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorAssemblyInfo.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.TagHelpers.input.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.TagHelpers.output.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorCoreGenerate.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorTargetAssemblyInfo.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorTargetAssemblyInfo.cs
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.Views.pdb
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\staticwebassets\DIProject.StaticWebAssets.Manifest.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\staticwebassets\DIProject.StaticWebAssets.xml
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.dll
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.pdb
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.genruntimeconfig.cache
+C:\Users\Persia\Desktop\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csproj.CopyComplete
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.exe
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.deps.json
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.runtimeconfig.json
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.runtimeconfig.dev.json
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.dll
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.pdb
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.Views.dll
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\bin\Debug\netcoreapp3.1\DIProject.Views.pdb
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csprojAssemblyReference.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.AssemblyInfoInputs.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.AssemblyInfo.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csproj.CoreCompileInputs.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorAssemblyInfo.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorAssemblyInfo.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\staticwebassets\DIProject.StaticWebAssets.Manifest.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\staticwebassets\DIProject.StaticWebAssets.xml
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DIProject.styles.css
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.TagHelpers.input.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.TagHelpers.output.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorCoreGenerate.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorTargetAssemblyInfo.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.RazorTargetAssemblyInfo.cs
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.Views.pdb
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.dll
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.pdb
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.genruntimeconfig.cache
+E:\ASP.Net Core\ASP.net core MVC\DIProject\DIProject\obj\Debug\netcoreapp3.1\DIProject.csproj.CopyComplete
